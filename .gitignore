@@ -1,0 +1,9 @@
+*.py_
+# py_ used for python files backup or other temporary usages
+module_old/
+__pycache__/
+.idea/
+.vscode/
+/*.json
+config.py
+temp/
